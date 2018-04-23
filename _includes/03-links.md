@@ -1,1 +1,1 @@
-[github] (https://github.com/arturican)
+[github](https://github.com/arturican)
